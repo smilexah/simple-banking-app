@@ -1,0 +1,9 @@
+
+${Ansi.RED}                            .__.__                        .__
+${Ansi.RED}               ______ _____ |__|  |   ____ ___  ________  |  |__
+${Ansi.RED}              /  ___//     \|  |  | _/ __ \\  \/  /\__  \ |  |  \
+${Ansi.RED}              \___ \|  Y Y  \  |  |_\  ___/ >    <  / __ \|   Y  \
+${Ansi.RED}             /____  >__|_|  /__|____/\___  >__/\_ \(____  /___|  /
+${Ansi.RED}                  \/      \/             \/      \/     \/     \/
+${Ansi.DEFAULT}             ${application.title}                                   ${application.version}
+                            Powered by Spring Boot ${spring-boot.version}
